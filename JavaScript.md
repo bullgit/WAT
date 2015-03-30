@@ -1,6 +1,6 @@
 # JavaScript WAT?
 
-We're all love NaN!
+We all love NaN!
 ```javascript
 > NaN === NaN
 false
