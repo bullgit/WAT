@@ -26,6 +26,11 @@ Array + Object * headaches!
 NaN
 ```
 
+Undefined and null
+```javascript
+> undefined == null // true
+```
+
 Weak typing + implicit conversions * headaches! Because we all love consistency.
 ```javascript
 > "5" - 3
