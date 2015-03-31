@@ -28,7 +28,14 @@ NaN
 
 Undefined and null
 ```javascript
-> undefined == null // true
+> undefined == null
+true
+```
+
+Floating point imprecision
+```javascript
+> 0.1 + 0.7
+0.7999999999999999
 ```
 
 Weak typing + implicit conversions * headaches! Because we all love consistency.
