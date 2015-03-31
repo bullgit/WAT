@@ -6,11 +6,6 @@ We all love NaN!
 false
 ```
 
-What's the type of __'Not a Number'__?
-``` javascript
-> typeof NaN // "number"
-```
-
 Array additions and subtractions!
 ```javascript
 > [] + []
