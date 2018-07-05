@@ -76,7 +76,3 @@ Because fuck math!
 > '5' + x - x
 50
 ```
-```javascript
-> '5' - x * x
-5
-```
